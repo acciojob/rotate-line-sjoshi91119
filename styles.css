@@ -1,1 +1,34 @@
 /*  your css code here. If applicable */
+/*  your css code here. If applicable */
+#line {
+    position: absolute;
+    top: 40%;
+    left: 40%;
+    /* transform: translate(-50%, -50%); */
+    width: 200px;
+    height: 2px;
+    background-color: black;
+  }
+  
+  /* Rotate with only css 
+  #line{
+    background-color: black;
+    width: 200px;
+    height: 2px;
+    animation-name: myrotation;
+    animation-duration: 2s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    margin-top: 100px;
+    margin-right: 100px;
+	 position: absolute;
+}
+@keyframes myrotation{
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg);
+    }
+}
+  */
